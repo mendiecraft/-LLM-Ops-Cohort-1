@@ -1,0 +1,10 @@
+.env
+
+data
+storage
+
+.chainlit
+
+__pycache__
+
+test.py
